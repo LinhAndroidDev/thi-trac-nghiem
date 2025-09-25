@@ -1,0 +1,92 @@
+{
+  "common": {
+    "home": "Home",
+    "history": "History",
+    "statistics": "Statistics",
+    "settings": "Settings",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "changePassword": "Change Password",
+    "submit": "Submit",
+    "next": "Next",
+    "previous": "Previous",
+    "finish": "Finish",
+    "start": "Start",
+    "back": "Back",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close"
+  },
+  "auth": {
+    "username": "Username",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "email": "Email",
+    "fullName": "Full Name",
+    "loginTitle": "Login",
+    "registerTitle": "Register",
+    "changePasswordTitle": "Change Password",
+    "oldPassword": "Old Password",
+    "newPassword": "New Password",
+    "confirmNewPassword": "Confirm New Password",
+    "loginSuccess": "Login successful",
+    "registerSuccess": "Registration successful",
+    "logoutSuccess": "Logout successful",
+    "passwordChanged": "Password changed successfully"
+  },
+  "home": {
+    "title": "Welcome to the Quiz System",
+    "subjects": "Subjects",
+    "recentQuizzes": "Recent Quizzes",
+    "noRecentQuizzes": "No recent quizzes",
+    "startQuiz": "Start Quiz",
+    "viewAll": "View All"
+  },
+  "quiz": {
+    "timeRemaining": "Time Remaining",
+    "question": "Question",
+    "of": "of",
+    "correctAnswer": "Correct Answer",
+    "explanation": "Explanation",
+    "yourAnswer": "Your Answer",
+    "score": "Score",
+    "totalQuestions": "Total Questions",
+    "correctAnswers": "Correct Answers",
+    "timeSpent": "Time Spent",
+    "reviewQuiz": "Review Quiz",
+    "startNewQuiz": "Start New Quiz",
+    "quizCompleted": "Quiz Completed"
+  },
+  "history": {
+    "title": "Quiz History",
+    "noHistory": "No quiz history",
+    "quizTitle": "Quiz Title",
+    "score": "Score",
+    "date": "Date",
+    "timeSpent": "Time Spent",
+    "viewDetails": "View Details"
+  },
+  "statistics": {
+    "title": "Statistics",
+    "quizzesBySubject": "Quizzes by Subject",
+    "answersBySubject": "Correct/Incorrect Answers by Subject",
+    "monthlyProgress": "Monthly Progress",
+    "totalQuizzes": "Total Quizzes",
+    "averageScore": "Average Score",
+    "totalTime": "Total Time"
+  },
+  "settings": {
+    "title": "Settings",
+    "userInfo": "User Information",
+    "theme": "Theme",
+    "language": "Language",
+    "lightMode": "Light",
+    "darkMode": "Dark",
+    "vietnamese": "Tiếng Việt",
+    "english": "English",
+    "updateProfile": "Update Profile",
+    "changePassword": "Change Password"
+  }
+}

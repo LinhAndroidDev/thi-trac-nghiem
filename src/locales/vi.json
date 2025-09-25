@@ -1,0 +1,92 @@
+{
+  "common": {
+    "home": "Trang chủ",
+    "history": "Lịch sử",
+    "statistics": "Thống kê",
+    "settings": "Cài đặt",
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "logout": "Đăng xuất",
+    "changePassword": "Đổi mật khẩu",
+    "submit": "Nộp bài",
+    "next": "Tiếp theo",
+    "previous": "Trước",
+    "finish": "Hoàn thành",
+    "start": "Bắt đầu",
+    "back": "Quay lại",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "confirm": "Xác nhận",
+    "close": "Đóng"
+  },
+  "auth": {
+    "username": "Tên đăng nhập",
+    "password": "Mật khẩu",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "email": "Email",
+    "fullName": "Họ và tên",
+    "loginTitle": "Đăng nhập",
+    "registerTitle": "Đăng ký",
+    "changePasswordTitle": "Đổi mật khẩu",
+    "oldPassword": "Mật khẩu cũ",
+    "newPassword": "Mật khẩu mới",
+    "confirmNewPassword": "Xác nhận mật khẩu mới",
+    "loginSuccess": "Đăng nhập thành công",
+    "registerSuccess": "Đăng ký thành công",
+    "logoutSuccess": "Đăng xuất thành công",
+    "passwordChanged": "Đổi mật khẩu thành công"
+  },
+  "home": {
+    "title": "Chào mừng đến với hệ thống thi trắc nghiệm",
+    "subjects": "Chủ đề",
+    "recentQuizzes": "Bài thi gần đây",
+    "noRecentQuizzes": "Chưa có bài thi nào",
+    "startQuiz": "Bắt đầu thi",
+    "viewAll": "Xem tất cả"
+  },
+  "quiz": {
+    "timeRemaining": "Thời gian còn lại",
+    "question": "Câu hỏi",
+    "of": "của",
+    "correctAnswer": "Đáp án đúng",
+    "explanation": "Giải thích",
+    "yourAnswer": "Đáp án của bạn",
+    "score": "Điểm số",
+    "totalQuestions": "Tổng số câu",
+    "correctAnswers": "Số câu đúng",
+    "timeSpent": "Thời gian làm bài",
+    "reviewQuiz": "Xem lại bài thi",
+    "startNewQuiz": "Làm bài thi mới",
+    "quizCompleted": "Hoàn thành bài thi"
+  },
+  "history": {
+    "title": "Lịch sử bài thi",
+    "noHistory": "Chưa có lịch sử bài thi nào",
+    "quizTitle": "Tên bài thi",
+    "score": "Điểm",
+    "date": "Ngày thi",
+    "timeSpent": "Thời gian",
+    "viewDetails": "Xem chi tiết"
+  },
+  "statistics": {
+    "title": "Thống kê",
+    "quizzesBySubject": "Số lượng bài thi theo chủ đề",
+    "answersBySubject": "Số câu trả lời đúng/sai theo chủ đề",
+    "monthlyProgress": "Tiến độ theo tháng",
+    "totalQuizzes": "Tổng số bài thi",
+    "averageScore": "Điểm trung bình",
+    "totalTime": "Tổng thời gian"
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "userInfo": "Thông tin người dùng",
+    "theme": "Chế độ hiển thị",
+    "language": "Ngôn ngữ",
+    "lightMode": "Sáng",
+    "darkMode": "Tối",
+    "vietnamese": "Tiếng Việt",
+    "english": "English",
+    "updateProfile": "Cập nhật thông tin",
+    "changePassword": "Đổi mật khẩu"
+  }
+}

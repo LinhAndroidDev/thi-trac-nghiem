@@ -22,7 +22,14 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node scripts/start.js",
+    "start:3000": "PORT=3000 react-scripts start",
+    "start:3001": "PORT=3001 react-scripts start",
+    "start:3002": "PORT=3002 react-scripts start",
+    "start:auto": "PORT=3001 react-scripts start",
+    "kill:3000": "node scripts/kill-port.js 3000",
+    "kill:3001": "node scripts/kill-port.js 3001",
+    "kill:all": "node scripts/kill-port.js 3000 && node scripts/kill-port.js 3001",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
